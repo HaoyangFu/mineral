@@ -1,16 +1,16 @@
 {
   "minerals": [
     {
-      "id": "achavalite",
+      "id": "Achavalite",
       "name": "Achavalite",
-      "nameCn": "硒铁矿",
+      "nameCn": "Achavalite",
       "formula": "Fe Se",
       "category": "sulfides",
-      "hardness": 4.5,
-      "density": 7.2,
-      "color": "灰色至黑色",
-      "luster": "金属光泽",
-      "crystal": "六方晶系",
+      "hardness": 0,
+      "density": 0,
+      "color": "未知",
+      "luster": "未知",
+      "crystal": "未知",
       "spaceGroup": "P 63 m c",
       "lattice": {
         "a": 3.637,
@@ -135,7 +135,10 @@
   "metadata": {
     "total_minerals": 1,
     "total_structures": 4,
-    "generated_date": "2025-06-08 01:06:25",
-    "version": "1.1"
+    "generated_date": "2025-06-08 01:24:05",
+    "version": "1.2",
+    "categories": {
+      "sulfides": 1
+    }
   }
 }
