@@ -1,11 +1,170 @@
 {
   "minerals": [
     {
+      "id": "Abellaite",
+      "name": "Abellaite",
+      "nameCn": "Abellaite",
+      "formula": "Na Pb2 C2 (O7 H)",
+      "category": "oxides",
+      "hardness": 0,
+      "density": 0,
+      "color": "未知",
+      "luster": "未知",
+      "crystal": "未知",
+      "spaceGroup": "P 3 1 c",
+      "lattice": {
+        "a": 5.268,
+        "b": 5.268,
+        "c": 13.48,
+        "alpha": 90.0,
+        "beta": 90.0,
+        "gamma": 120.0,
+        "volume": 323.975
+      },
+      "z": 0,
+      "description": "Abellaite 矿物",
+      "structures": [
+        {
+          "id": "structure_01",
+          "name": "结构 01",
+          "spaceGroup": "P 3 1 c",
+          "lattice": {
+            "a": 5.268,
+            "b": 5.268,
+            "c": 13.48,
+            "alpha": 90.0,
+            "beta": 90.0,
+            "gamma": 120.0,
+            "volume": 323.975
+          },
+          "z": 0,
+          "files": {
+            "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Abellaite\\structure_01",
+            "cif": "Abellaite_structure_01_cif.cif",
+            "amc": null,
+            "diffraction": "Abellaite_structure_01_diffraction.txt",
+            "jmol_3d": null,
+            "jmol_3d_png": "Abellaite_structure_01_jmol_3d.png",
+            "jmol_info": "Abellaite_structure_01_jmol_info.json",
+            "jmol_script": "Abellaite_structure_01_jmol_script_3.js",
+            "info_json": "structure_info.json"
+          }
+        }
+      ],
+      "files": {}
+    },
+    {
+      "id": "Abelsonite",
+      "name": "Abelsonite",
+      "nameCn": "Abelsonite",
+      "formula": "(Ni.93 Fe.05 Cr.02) N4 C31 H32",
+      "category": "halides",
+      "hardness": 0,
+      "density": 0,
+      "color": "未知",
+      "luster": "未知",
+      "crystal": "未知",
+      "spaceGroup": "P -1",
+      "lattice": {
+        "a": 8.4416,
+        "b": 10.8919,
+        "c": 7.2749,
+        "alpha": 90.465,
+        "beta": 113.158,
+        "gamma": 78.08,
+        "volume": 599.743
+      },
+      "z": 0,
+      "description": "Abelsonite 矿物",
+      "structures": [
+        {
+          "id": "structure_01",
+          "name": "结构 01",
+          "spaceGroup": "P -1",
+          "lattice": {
+            "a": 8.4416,
+            "b": 10.8919,
+            "c": 7.2749,
+            "alpha": 90.465,
+            "beta": 113.158,
+            "gamma": 78.08,
+            "volume": 599.743
+          },
+          "z": 0,
+          "files": {
+            "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Abelsonite\\structure_01",
+            "cif": "Abelsonite_structure_01_cif.cif",
+            "amc": null,
+            "diffraction": "Abelsonite_structure_01_diffraction.txt",
+            "jmol_3d": null,
+            "jmol_3d_png": "Abelsonite_structure_01_jmol_3d.png",
+            "jmol_info": "Abelsonite_structure_01_jmol_info.json",
+            "jmol_script": "Abelsonite_structure_01_jmol_script_3.js",
+            "info_json": "structure_info.json"
+          }
+        }
+      ],
+      "files": {}
+    },
+    {
+      "id": "Abenakiite_Ce",
+      "name": "Abenakiite_Ce",
+      "nameCn": "Abenakiite_Ce",
+      "formula": "Si6 P6 Na26 (Ce3 Nd1.98 La1.02) C6 S O66",
+      "category": "silicates",
+      "hardness": 0,
+      "density": 0,
+      "color": "未知",
+      "luster": "未知",
+      "crystal": "未知",
+      "spaceGroup": "R -3",
+      "lattice": {
+        "a": 16.02,
+        "b": 16.02,
+        "c": 19.92,
+        "alpha": 90.0,
+        "beta": 90.0,
+        "gamma": 120.0,
+        "volume": 4427.361
+      },
+      "z": 0,
+      "description": "Abenakiite_Ce 矿物",
+      "structures": [
+        {
+          "id": "structure_01",
+          "name": "结构 01",
+          "spaceGroup": "R -3",
+          "lattice": {
+            "a": 16.02,
+            "b": 16.02,
+            "c": 19.92,
+            "alpha": 90.0,
+            "beta": 90.0,
+            "gamma": 120.0,
+            "volume": 4427.361
+          },
+          "z": 0,
+          "files": {
+            "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Abenakiite_Ce\\structure_01",
+            "cif": "Abenakiite_Ce_structure_01_cif.cif",
+            "amc": null,
+            "diffraction": "Abenakiite_Ce_structure_01_diffraction.txt",
+            "jmol_3d": null,
+            "jmol_3d_png": "Abenakiite_Ce_structure_01_jmol_3d.png",
+            "jmol_info": "Abenakiite_Ce_structure_01_jmol_info.json",
+            "jmol_script": "Abenakiite_Ce_structure_01_jmol_script_3.js",
+            "info_json": "structure_info.json"
+          }
+        }
+      ],
+      "files": {}
+    },
+    {
       "id": "Achavalite",
       "name": "Achavalite",
       "nameCn": "Achavalite",
       "formula": "Fe Se",
-      "category": "unknown",
+      "category": "sulfides",
       "hardness": 0,
       "density": 0,
       "color": "未知",
@@ -133,12 +292,15 @@
     }
   ],
   "metadata": {
-    "total_minerals": 1,
-    "total_structures": 4,
-    "generated_date": "2025-06-08 01:35:07",
+    "total_minerals": 4,
+    "total_structures": 7,
+    "generated_date": "2025-06-08 01:49:42",
     "version": "1.2",
     "categories": {
-      "unknown": 1
+      "oxides": 1,
+      "halides": 1,
+      "silicates": 1,
+      "sulfides": 1
     }
   }
 }
