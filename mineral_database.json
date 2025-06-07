@@ -1,0 +1,76 @@
+{
+  "minerals": [
+    {
+      "id": "achavalite",
+      "name": "Achavalite",
+      "formula": "",
+      "category": "sulfides",
+      "hardness": 4.5,
+      "density": 5.6,
+      "color": "灰色-黑色",
+      "luster": "金属光泽",
+      "crystal": "未知",
+      "description": "Achavalite 矿物",
+      "structures": [
+        {
+          "id": "structure_01",
+          "name": "Structure 01",
+          "files": {
+            "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Achavalite\\structure_01",
+            "cif": "Achavalite_structure_01_cif.cif",
+            "diffraction": "Achavalite_structure_01_diffraction.txt",
+            "jmol_3d_png": "Achavalite_structure_01_jmol_3d.png",
+            "jmol_info": "Achavalite_structure_01_jmol_info.json",
+            "jmol_script": "Achavalite_structure_01_jmol_script_3.js",
+            "info_json": "structure_info.json"
+          }
+        },
+        {
+          "id": "structure_02",
+          "name": "Structure 02",
+          "files": {
+            "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Achavalite\\structure_02",
+            "cif": "Achavalite_structure_02_cif.cif",
+            "diffraction": "Achavalite_structure_02_diffraction.txt",
+            "jmol_3d_png": "Achavalite_structure_02_jmol_3d.png",
+            "jmol_info": "Achavalite_structure_02_jmol_info.json",
+            "jmol_script": "Achavalite_structure_02_jmol_script_3.js",
+            "info_json": "structure_info.json"
+          }
+        },
+        {
+          "id": "structure_03",
+          "name": "Structure 03",
+          "files": {
+            "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Achavalite\\structure_03",
+            "cif": "Achavalite_structure_03_cif.cif",
+            "diffraction": "Achavalite_structure_03_diffraction.txt",
+            "jmol_3d_png": "Achavalite_structure_03_jmol_3d.png",
+            "jmol_info": "Achavalite_structure_03_jmol_info.json",
+            "jmol_script": "Achavalite_structure_03_jmol_script_3.js",
+            "info_json": "structure_info.json"
+          }
+        },
+        {
+          "id": "structure_04",
+          "name": "Structure 04",
+          "files": {
+            "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Achavalite\\structure_04",
+            "cif": "Achavalite_structure_04_cif.cif",
+            "diffraction": "Achavalite_structure_04_diffraction.txt",
+            "jmol_3d_png": "Achavalite_structure_04_jmol_3d.png",
+            "jmol_info": "Achavalite_structure_04_jmol_info.json",
+            "jmol_script": "Achavalite_structure_04_jmol_script_3.js",
+            "info_json": "structure_info.json"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "total_minerals": 1,
+    "total_structures": 4,
+    "generated_date": "2025-06-07 22:12:45",
+    "version": "1.0"
+  }
+}
