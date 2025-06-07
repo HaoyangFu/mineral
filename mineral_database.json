@@ -3,6 +3,7 @@
     {
       "id": "achavalite",
       "name": "Achavalite",
+      "nameCn": "硒铁矿",
       "formula": "Fe Se",
       "category": "sulfides",
       "hardness": 4.5,
@@ -20,11 +21,12 @@
         "gamma": 120.0,
         "volume": 68.252
       },
+      "z": 0,
       "description": "Achavalite 矿物",
       "structures": [
         {
           "id": "structure_01",
-          "name": "Structure 01",
+          "name": "结构 01",
           "spaceGroup": "P 63 m c",
           "lattice": {
             "a": 3.637,
@@ -35,10 +37,13 @@
             "gamma": 120.0,
             "volume": 68.252
           },
+          "z": 0,
           "files": {
             "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Achavalite\\structure_01",
             "cif": "Achavalite_structure_01_cif.cif",
+            "amc": null,
             "diffraction": "Achavalite_structure_01_diffraction.txt",
+            "jmol_3d": null,
             "jmol_3d_png": "Achavalite_structure_01_jmol_3d.png",
             "jmol_info": "Achavalite_structure_01_jmol_info.json",
             "jmol_script": "Achavalite_structure_01_jmol_script_3.js",
@@ -47,7 +52,7 @@
         },
         {
           "id": "structure_02",
-          "name": "Structure 02",
+          "name": "结构 02",
           "spaceGroup": "P 63/m m c",
           "lattice": {
             "a": 3.61,
@@ -58,10 +63,13 @@
             "gamma": 120.0,
             "volume": 66.25
           },
+          "z": 0,
           "files": {
             "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Achavalite\\structure_02",
             "cif": "Achavalite_structure_02_cif.cif",
+            "amc": null,
             "diffraction": "Achavalite_structure_02_diffraction.txt",
+            "jmol_3d": null,
             "jmol_3d_png": "Achavalite_structure_02_jmol_3d.png",
             "jmol_info": "Achavalite_structure_02_jmol_info.json",
             "jmol_script": "Achavalite_structure_02_jmol_script_3.js",
@@ -70,7 +78,7 @@
         },
         {
           "id": "structure_03",
-          "name": "Structure 03",
+          "name": "结构 03",
           "spaceGroup": "P 63 m c",
           "lattice": {
             "a": 3.636,
@@ -81,10 +89,13 @@
             "gamma": 120.0,
             "volume": 68.077
           },
+          "z": 0,
           "files": {
             "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Achavalite\\structure_03",
             "cif": "Achavalite_structure_03_cif.cif",
+            "amc": null,
             "diffraction": "Achavalite_structure_03_diffraction.txt",
+            "jmol_3d": null,
             "jmol_3d_png": "Achavalite_structure_03_jmol_3d.png",
             "jmol_info": "Achavalite_structure_03_jmol_info.json",
             "jmol_script": "Achavalite_structure_03_jmol_script_3.js",
@@ -93,7 +104,7 @@
         },
         {
           "id": "structure_04",
-          "name": "Structure 04",
+          "name": "结构 04",
           "spaceGroup": "P 63 m c",
           "lattice": {
             "a": 3.521,
@@ -104,23 +115,27 @@
             "gamma": 120.0,
             "volume": 63.356
           },
+          "z": 0,
           "files": {
             "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Achavalite\\structure_04",
             "cif": "Achavalite_structure_04_cif.cif",
+            "amc": null,
             "diffraction": "Achavalite_structure_04_diffraction.txt",
+            "jmol_3d": null,
             "jmol_3d_png": "Achavalite_structure_04_jmol_3d.png",
             "jmol_info": "Achavalite_structure_04_jmol_info.json",
             "jmol_script": "Achavalite_structure_04_jmol_script_3.js",
             "info_json": "structure_info.json"
           }
         }
-      ]
+      ],
+      "files": {}
     }
   ],
   "metadata": {
     "total_minerals": 1,
     "total_structures": 4,
-    "generated_date": "2025-06-08 00:30:26",
-    "version": "1.0"
+    "generated_date": "2025-06-08 01:06:25",
+    "version": "1.1"
   }
 }
