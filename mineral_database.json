@@ -5,7 +5,7 @@
       "name": "Achavalite",
       "nameCn": "Achavalite",
       "formula": "Fe Se",
-      "category": "sulfides",
+      "category": "unknown",
       "hardness": 0,
       "density": 0,
       "color": "未知",
@@ -135,10 +135,10 @@
   "metadata": {
     "total_minerals": 1,
     "total_structures": 4,
-    "generated_date": "2025-06-08 01:24:05",
+    "generated_date": "2025-06-08 01:35:07",
     "version": "1.2",
     "categories": {
-      "sulfides": 1
+      "unknown": 1
     }
   }
 }
