@@ -3,18 +3,38 @@
     {
       "id": "achavalite",
       "name": "Achavalite",
-      "formula": "",
+      "formula": "Fe Se",
       "category": "sulfides",
       "hardness": 4.5,
-      "density": 5.6,
-      "color": "灰色-黑色",
+      "density": 7.2,
+      "color": "灰色至黑色",
       "luster": "金属光泽",
-      "crystal": "未知",
+      "crystal": "六方晶系",
+      "spaceGroup": "P 63 m c",
+      "lattice": {
+        "a": 3.637,
+        "b": 3.637,
+        "c": 5.958,
+        "alpha": 90.0,
+        "beta": 90.0,
+        "gamma": 120.0,
+        "volume": 68.252
+      },
       "description": "Achavalite 矿物",
       "structures": [
         {
           "id": "structure_01",
           "name": "Structure 01",
+          "spaceGroup": "P 63 m c",
+          "lattice": {
+            "a": 3.637,
+            "b": 3.637,
+            "c": 5.958,
+            "alpha": 90.0,
+            "beta": 90.0,
+            "gamma": 120.0,
+            "volume": 68.252
+          },
           "files": {
             "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Achavalite\\structure_01",
             "cif": "Achavalite_structure_01_cif.cif",
@@ -28,6 +48,16 @@
         {
           "id": "structure_02",
           "name": "Structure 02",
+          "spaceGroup": "P 63/m m c",
+          "lattice": {
+            "a": 3.61,
+            "b": 3.61,
+            "c": 5.87,
+            "alpha": 90.0,
+            "beta": 90.0,
+            "gamma": 120.0,
+            "volume": 66.25
+          },
           "files": {
             "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Achavalite\\structure_02",
             "cif": "Achavalite_structure_02_cif.cif",
@@ -41,6 +71,16 @@
         {
           "id": "structure_03",
           "name": "Structure 03",
+          "spaceGroup": "P 63 m c",
+          "lattice": {
+            "a": 3.636,
+            "b": 3.636,
+            "c": 5.946,
+            "alpha": 90.0,
+            "beta": 90.0,
+            "gamma": 120.0,
+            "volume": 68.077
+          },
           "files": {
             "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Achavalite\\structure_03",
             "cif": "Achavalite_structure_03_cif.cif",
@@ -54,6 +94,16 @@
         {
           "id": "structure_04",
           "name": "Structure 04",
+          "spaceGroup": "P 63 m c",
+          "lattice": {
+            "a": 3.521,
+            "b": 3.521,
+            "c": 5.901,
+            "alpha": 90.0,
+            "beta": 90.0,
+            "gamma": 120.0,
+            "volume": 63.356
+          },
           "files": {
             "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Achavalite\\structure_04",
             "cif": "Achavalite_structure_04_cif.cif",
@@ -70,7 +120,7 @@
   "metadata": {
     "total_minerals": 1,
     "total_structures": 4,
-    "generated_date": "2025-06-07 22:12:45",
+    "generated_date": "2025-06-08 00:30:26",
     "version": "1.0"
   }
 }
