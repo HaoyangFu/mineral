@@ -12,6 +12,7 @@
       "luster": "未知",
       "crystal": "六方晶系",
       "spaceGroup": "P 3 1 c",
+      "spaceGroupConfidence": 80,
       "lattice": {
         "a": 5.268,
         "b": 5.268,
@@ -111,9 +112,7 @@
           },
           "cif_content": "data_global\n_chemical_name_mineral 'Abellaite'\nloop_\n_publ_author_name\n'Belokoneva E L'\n'Al'-Ama A G'\n'Dimitrova O V'\n'Kurazhkovskaya V S'\n'Stefanovich S Y'\n_journal_name_full 'Crystallography Reports'\n_journal_volume 47 \n_journal_year 2002\n_journal_page_first 217\n_journal_page_last 222\n_publ_section_title\n;\n Synthesis and crystal structure of new carbonate NaPb2(CO3)2(OH)\n;\n_database_code_amcsd 0020513\n_chemical_compound_source 'Synthetic'\n_chemical_formula_sum 'Na Pb2 C2 (O7 H)'\n_cell_length_a 5.268\n_cell_length_b 5.268\n_cell_length_c 13.48\n_cell_angle_alpha 90\n_cell_angle_beta 90\n_cell_angle_gamma 120\n_cell_volume 323.975\n_exptl_crystal_density_diffrn      5.888\n_symmetry_space_group_name_H-M 'P 3 1 c'\nloop_\n_space_group_symop_operation_xyz\n  'x,y,z'\n  'x-y,-y,1/2+z'\n  '-y,x-y,z'\n  'y,x,1/2+z'\n  '-x+y,-x,z'\n  '-x,-x+y,1/2+z'\nloop_\n_atom_site_label\n_atom_site_fract_x\n_atom_site_fract_y\n_atom_site_fract_z\n_atom_site_U_iso_or_equiv\nNa1   0.66667   0.33333   0.89270   0.02014\nPb1   0.66667   0.33333   0.55700   0.01077\nPb2   0.66667   0.33333   0.22580   0.01140\nC1   0.00000   0.00000   0.03500   0.00557\nC2   0.00000   0.00000   0.27600   0.00405\nO-H1   0.66667   0.33333   0.38800   0.01862\nO2   0.15100   0.28800   0.53600   0.01520\nO3   0.27600   0.14100   0.75500   0.01051\n\n"
         }
-      ],
-      "files": {},
-      "spaceGroupConfidence": 80
+      ]
     },
     {
       "id": "Abelsonite",
@@ -127,6 +126,7 @@
       "luster": "未知",
       "crystal": "三斜晶系",
       "spaceGroup": "P-1",
+      "spaceGroupConfidence": 80,
       "lattice": {
         "a": 8.4416,
         "b": 10.8919,
@@ -954,9 +954,7 @@
           },
           "cif_content": "data_global\n_chemical_name_mineral 'Abelsonite'\nloop_\n_publ_author_name\n'Hummer D R'\n'Noll B C'\n'Hazen R M'\n'Downs R T'\n_journal_name_full 'American Mineralogist'\n_journal_volume 102 \n_journal_year 2017\n_journal_page_first 1129\n_journal_page_last 1132\n_publ_section_title\n;\n Crystal structure of abelsonite, the only known crystalline geoporphyrin\n Note: T = 100 K\n;\n_database_code_amcsd 0020838\n_chemical_compound_source 'Green River formation, Uintah County, Utah, USA'\n_chemical_formula_sum '(Ni.93 Fe.05 Cr.02) N4 C31 H32'\n_cell_length_a 8.4416\n_cell_length_b 10.8919\n_cell_length_c 7.2749\n_cell_angle_alpha 90.465\n_cell_angle_beta 113.158\n_cell_angle_gamma 78.080\n_cell_volume 599.743\n_exptl_crystal_density_diffrn      1.437\n_symmetry_space_group_name_H-M 'P -1'\nloop_\n_space_group_symop_operation_xyz\n  'x,y,z'\n  '-x,-y,-z'\nloop_\n_atom_site_label\n_atom_site_fract_x\n_atom_site_fract_y\n_atom_site_fract_z\n_atom_site_occupancy\n_atom_site_U_iso_or_equiv\nNi   0.50000   0.50000   0.50000   0.93000   0.04450\nFe   0.50000   0.50000   0.50000   0.05000   0.04450\nCr   0.50000   0.50000   0.50000   0.02000   0.04450\nN1   0.64430   0.62200   0.50510   1.00000   0.05060\nN2   0.42500   0.59180   0.68930   1.00000   0.04740\nC1   0.75370   0.62350   0.40300   1.00000   0.05810\nC2   0.86500   0.70470   0.47660   0.37800   0.02840\nC3   0.80300   0.77540   0.60300   0.50000   0.03920\nC4   0.68040   0.71150   0.63040   0.50000   0.03600\nC5   0.59070   0.74760   0.75300   0.50000   0.04200\nC11   0.00130   0.73640   0.40790   0.37800   0.03600\nC12   0.91570   0.84020   0.23740   0.37800   0.05400\nC13   0.85200   0.89260   0.69950   0.50000   0.05300\nC15   0.15970   0.61410   0.97280   0.50000   0.04900\nC16   0.11600   0.49610   0.85150   0.50000   0.06160\nC6   0.46580   0.69940   0.77700   1.00000   0.05050\nC7   0.37960   0.73540   0.91340   1.00000   0.04970\nC8   0.28470   0.64830   0.90570   1.00000   0.04600\nC9   0.31370   0.56120   0.76920   1.00000   0.04830\nC10   0.22800   0.46420   0.72770   1.00000   0.05660\nC14   0.39750   0.84620   0.03570   1.00000   0.06550\nC2*   0.81600   0.75070   0.43700   0.50000   0.06600\nC3*   0.75100   0.80400   0.55200   0.27700   0.05400\nC4*   0.63300   0.74530   0.59080   0.50000   0.04600\nC5*   0.55480   0.78370   0.72400   0.50000   0.05100\nC11*   0.95290   0.77160   0.35850   0.50000   0.06500\nC13*   0.80000   0.92300   0.64200   0.27700   0.05300\nC14*   0.73000   0.02240   0.54300   0.27700   0.06700\nC15*   0.17700   0.63220   0.03400   0.50000   0.05400\nC2*   0.80100   0.73200   0.40700   0.12200   0.05000\nC11*   0.85500   0.80500   0.27000   0.12200   0.02800\nC12*   0.05500   0.78000   0.35500   0.12200   0.04700\nC3*   0.73100   0.83280   0.54000   0.22300   0.04900\nC13*   0.74400   0.96510   0.60400   0.22300   0.05500\nC14*   0.91380   0.96060   0.80250   0.22300   0.04200\nH5   0.62220   0.81610   0.83030   0.50000   0.05000\nH11A   0.05740   0.66020   0.36230   0.37800   0.04300\nH11B   0.09460   0.76410   0.52200   0.37800   0.04300\nH12A   0.82510   0.81200   0.12350   0.37800   0.08000\nH12B   0.00580   0.85940   0.19600   0.37800   0.08000\nH12C   0.86110   0.91580   0.28300   0.37800   0.08000\nH13A   0.96610   0.89960   0.70020   0.50000   0.07900\nH13B   0.86060   0.88800   0.83770   0.50000   0.07900\nH13C   0.76120   0.96660   0.62350   0.50000   0.07900\nH15A   0.05300   0.68280   0.93820   0.50000   0.05900\nH15B   0.21260   0.59170   0.11930   0.50000   0.05900\nH16A   0.14000   0.42290   0.94590   0.50000   0.07400\nH16B   0.98910   0.51400   0.76100   0.50000   0.07400\nH10   0.15180   0.45730   0.79270   0.50000   0.06800\nH14A   0.47550   0.89200   0.00880   0.50000   0.09800\nH14B   0.28090   0.90210   0.00020   0.50000   0.09800\nH14C   0.44770   0.81740   0.17840   0.50000   0.09800\nH14D   0.32720   0.84900   0.11610   0.50000   0.09800\nH14E   0.52190   0.83890   0.12480   0.50000   0.09800\nH14F   0.35510   0.92360   0.94650   0.50000   0.09800\nH5*   0.56000   0.86310   0.77850   0.50000   0.06100\nH11D   0.89690   0.78700   0.21210   0.50000   0.09700\nH11E   0.04960   0.69670   0.39600   0.50000   0.09700\nH11F   0.99970   0.84450   0.41710   0.50000   0.09700\nH13D   0.77700   0.92970   0.76590   0.27700   0.08000\nH13E   0.92910   0.91250   0.68430   0.27700   0.08000\nH14G   0.75230   0.01960   0.42110   0.27700   0.10100\nH14H   0.77700   0.09000   0.62120   0.27700   0.10100\nH14I   0.60190   0.03840   0.50710   0.27700   0.10100\nH15D   0.05190   0.64170   0.94530   0.50000   0.08000\nH15E   0.18910   0.69640   0.13070   0.50000   0.08000\nH15F   0.22220   0.54830   0.10590   0.50000   0.08000\nH11G   0.80880   0.77770   0.13220   0.12200   0.03400\nH11H   0.80490   0.89660   0.26360   0.12200   0.03400\nH12D   0.09860   0.81580   0.48480   0.12200   0.07000\nH12E   0.09240   0.81870   0.26210   0.12200   0.07000\nH12F   0.10350   0.68890   0.37290   0.12200   0.07000\nH13F   0.63740   0.00520   0.62650   0.22300   0.06600\nH13G   0.74940   0.01650   0.49580   0.22300   0.06600\nH14J   0.90170   0.91860   0.91330   0.22300   0.06300\nH14K   0.92720   0.04660   0.83340   0.22300   0.06300\nH14L   0.01820   0.91380   0.78400   0.22300   0.06300\nloop_\n_atom_site_aniso_label\n_atom_site_aniso_U_11\n_atom_site_aniso_U_22\n_atom_site_aniso_U_33\n_atom_site_aniso_U_12\n_atom_site_aniso_U_13\n_atom_site_aniso_U_23\nNi 0.02680 0.08130 0.03450 -0.02290 -0.01650 0.01260\nFe 0.02680 0.08130 0.03450 -0.02290 -0.01650 0.01260\nCr 0.02680 0.08130 0.03450 -0.02290 -0.01650 0.01260\nN1 0.04270 0.08560 0.04230 -0.03300 0.02760 -0.01450\nN2 0.02540 0.08320 0.03850 -0.01810 0.01490 -0.01200\nC1 0.06250 0.08500 0.05920 -0.04610 0.04390 -0.02270\nC2 0.01300 0.03500 0.03100 -0.00100 0.00600 0.00200\nC3 0.02500 0.05400 0.04000 -0.01200 0.01300 -0.00800\nC4 0.02000 0.05000 0.03400 -0.00500 0.00900 -0.00100\nC5 0.02800 0.05300 0.04500 -0.00600 0.01500 -0.00700\nC11 0.02600 0.04100 0.04200 -0.01100 0.01500 -0.00200\nC12 0.05100 0.07100 0.04400 -0.02600 0.01800 0.00300\nC13 0.04200 0.06300 0.06200 -0.02400 0.02400 -0.02100\nC15 0.04100 0.05400 0.06700 -0.01400 0.03700 -0.01000\nC16 0.06400 0.07100 0.08500 -0.03400 0.05800 -0.02500\nC6 0.03520 0.09100 0.03670 -0.03150 0.01750 -0.01830\nC7 0.04010 0.08000 0.04110 -0.02850 0.02210 -0.01600\nC8 0.03400 0.06630 0.04860 -0.01840 0.02450 -0.01430\nC9 0.02960 0.07400 0.04660 -0.01520 0.01920 -0.01330\nC10 0.04820 0.08900 0.05620 -0.03050 0.03800 -0.01470\nC14 0.07300 0.09600 0.05710 -0.05200 0.04170 -0.03000\nC2' 0.09300 0.07600 0.07500 -0.05800 0.06300 -0.02900\nC3' 0.06200 0.07200 0.04700 -0.03500 0.03100 -0.01200\nC4' 0.03600 0.08500 0.02900 -0.03100 0.01500 -0.00700\nC5' 0.05400 0.08500 0.03300 -0.04100 0.02500 -0.02000\nC11' 0.06700 0.08600 0.07100 -0.04700 0.04300 -0.01700\nC13' 0.07000 0.07300 0.04800 -0.03700 0.04700 -0.01700\nC14' 0.10400 0.06000 0.05600 -0.04000 0.04000 -0.02000\nC15' 0.05900 0.06600 0.05900 -0.02700 0.04200 -0.01400\nC2\" 0.06200 0.07100 0.04800 -0.03600 0.04500 -0.01700\nC11\" 0.02200 0.03700 0.04000 -0.01400 0.02300 -0.00300\nC12\" 0.03200 0.06100 0.05400 -0.01800 0.02200 0.01000\nC3\" 0.06400 0.06300 0.04300 -0.02900 0.04000 -0.00800\nC13\" 0.05500 0.05900 0.05200 -0.01500 0.02200 -0.00600\nC14\" 0.05200 0.04300 0.04300 -0.02000 -0.02000 -0.01100\n\n"
         }
-      ],
-      "files": {},
-      "spaceGroupConfidence": 80
+      ]
     },
     {
       "id": "Abenakiite_Ce",
@@ -970,6 +968,7 @@
       "luster": "未知",
       "crystal": "六方晶系",
       "spaceGroup": "R -3",
+      "spaceGroupConfidence": 80,
       "lattice": {
         "a": 16.02,
         "b": 16.02,
@@ -1321,9 +1320,7 @@
           },
           "cif_content": "data_global\n_chemical_name_mineral 'Abenakiite-(Ce)'\nloop_\n_publ_author_name\n'McDonald A M'\n'Chao G Y'\n'Grice J D'\n_journal_name_full 'The Canadian Mineralogist'\n_journal_volume 32 \n_journal_year 1994\n_journal_page_first 843\n_journal_page_last 854\n_publ_section_title\n;\n Abenakiite-(Ce), a new silicophosphate carbonate mineral from Mont\n Saint-Hilaire, Quebec: description and structure determination\n;\n_database_code_amcsd 0005409\n_chemical_compound_source 'Mont Saint-Hilaire, Quebec, Canada'\n_chemical_formula_sum 'Si6 P6 Na26 (Ce3 Nd1.98 La1.02) C6 S O66'\n_cell_length_a 16.020\n_cell_length_b 16.020\n_cell_length_c 19.920\n_cell_angle_alpha 90\n_cell_angle_beta 90\n_cell_angle_gamma 120\n_cell_volume 4427.361\n_exptl_crystal_density_diffrn      3.330\n_symmetry_space_group_name_H-M 'R -3'\nloop_\n_space_group_symop_operation_xyz\n  'x,y,z'\n  '2/3+x,1/3+y,1/3+z'\n  '1/3+x,2/3+y,2/3+z'\n  'y,-x+y,-z'\n  '2/3+y,1/3-x+y,1/3-z'\n  '1/3+y,2/3-x+y,2/3-z'\n  '-x+y,-x,z'\n  '2/3-x+y,1/3-x,1/3+z'\n  '1/3-x+y,2/3-x,2/3+z'\n  '-x,-y,-z'\n  '2/3-x,1/3-y,1/3-z'\n  '1/3-x,2/3-y,2/3-z'\n  '-y,x-y,z'\n  '2/3-y,1/3+x-y,1/3+z'\n  '1/3-y,2/3+x-y,2/3+z'\n  'x-y,x,-z'\n  '2/3+x-y,1/3+x,1/3-z'\n  '1/3+x-y,2/3+x,2/3-z'\nloop_\n_atom_site_label\n_atom_site_fract_x\n_atom_site_fract_y\n_atom_site_fract_z\n_atom_site_occupancy\n_atom_site_U_iso_or_equiv\nSi   0.42990   0.86520   0.12710   1.00000 ?\nP   0.31850   0.00060   0.00090   1.00000 ?\nNa1   0.34800   0.34830   0.17120   1.00000 ?\nNa2   0.55250   0.10460   0.71030   1.00000 ?\nNa3   0.33333   0.66667   0.02300   1.00000 ?\nNa4   0.20880   0.78500   0.73780   1.00000 ?\nNa5   0.11210   0.20890   0.09750   1.00000 ?\nCe   0.53552   0.11288   0.05834   0.50000 ?\nNd   0.53552   0.11288   0.05834   0.33000 ?\nLa   0.53552   0.11288   0.05834   0.17000 ?\nC   0.26570   0.76430   0.87470   1.00000 ?\nS   0.66667   0.33333   0.33333   1.00000   0.05850\nO1   0.44000   0.82500   0.05550   1.00000 ?\nO2   0.31410   0.81410   0.14620   1.00000 ?\nO3   0.83770   0.19140   0.80140   1.00000 ?\nO4   0.50010   0.80520   0.84330   1.00000 ?\nO5   0.39400   0.96820   0.99470   1.00000 ?\nO6   0.60460   0.96000   0.73400   1.00000 ?\nO7   0.63010   0.90790   0.95520   1.00000 ?\nO8   0.76910   0.07310   0.96170   1.00000 ?\nO9   0.32770   0.84270   0.84800   1.00000 ?\nO10   0.46180   0.71620   0.93770   1.00000 ?\nO11   0.57740   0.24560   0.33740   1.00000   0.05880\nloop_\n_atom_site_aniso_label\n_atom_site_aniso_U_11\n_atom_site_aniso_U_22\n_atom_site_aniso_U_33\n_atom_site_aniso_U_12\n_atom_site_aniso_U_13\n_atom_site_aniso_U_23\nSi 0.00850 0.00950 0.01160 0.00480 0.00040 0.00070\nP 0.01440 0.01400 0.02010 0.00790 0.00120 0.00090\nNa1 0.02980 0.04750 0.02310 0.03100 -0.00020 -0.00300\nNa2 0.01820 0.02550 0.03300 0.00020 0.00580 -0.00890\nNa3 0.01240 0.01240 0.03320 0.00620 0.00000 0.00000\nNa4 0.04830 0.02600 0.04980 0.00620 -0.01510 0.01040\nNa5 0.03500 0.07690 0.04680 0.04090 0.02310 0.04380\nCe 0.01170 0.00760 0.01250 0.00480 0.00190 0.00060\nNd 0.01170 0.00760 0.01250 0.00480 0.00190 0.00060\nLa 0.01170 0.00760 0.01250 0.00480 0.00190 0.00060\nC 0.01100 0.00940 0.00820 -0.00920 -0.00290 0.00160\nO1 0.01840 0.01550 0.01250 0.00860 0.00140 -0.00060\nO2 0.01060 0.02630 0.01650 0.00590 0.00160 0.00460\nO3 0.02370 0.02490 0.01750 0.01820 -0.00170 -0.00220\nO4 0.06040 0.03360 0.02410 0.03230 0.00330 0.00190\nO5 0.02480 0.02770 0.02720 0.01990 -0.00160 -0.00490\nO6 0.02580 0.04060 0.02560 0.00850 0.00860 0.00220\nO7 0.01930 0.02380 0.04400 0.01200 -0.00300 -0.01050\nO8 0.02680 0.02600 0.04430 0.00980 0.01290 0.00910\nO9 0.03070 0.01970 0.03000 0.00450 0.00020 0.00860\nO10 0.02300 0.01510 0.02320 0.00720 0.00980 0.00120\n\n"
         }
-      ],
-      "files": {},
-      "spaceGroupConfidence": 80
+      ]
     },
     {
       "id": "Achavalite",
@@ -1337,6 +1334,7 @@
       "luster": "未知",
       "crystal": "六方晶系",
       "spaceGroup": "P 63 m c",
+      "spaceGroupConfidence": 80,
       "lattice": {
         "a": 3.637,
         "b": 3.637,
@@ -1356,13 +1354,13 @@
           "spaceGroupConfidence": 80,
           "crystal": "六方晶系",
           "lattice": {
-            "a": 3.521,
-            "b": 3.521,
-            "c": 5.901,
+            "a": 3.637,
+            "b": 3.637,
+            "c": 5.958,
             "alpha": 90.0,
             "beta": 90.0,
             "gamma": 120.0,
-            "volume": 63.356
+            "volume": 68.252
           },
           "z": 0,
           "atoms": [
@@ -1379,31 +1377,114 @@
               "x": 0.33333,
               "y": 0.66667,
               "z": 0.25
+            }
+          ],
+          "files": {
+            "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Achavalite\\structure_01",
+            "cif": "Achavalite_structure_01_cif.cif",
+            "amc": null,
+            "diffraction": "Achavalite_structure_01_diffraction.txt",
+            "jmol_3d": null,
+            "jmol_3d_png": "Achavalite_structure_01_jmol_3d.png",
+            "jmol_info": "Achavalite_structure_01_jmol_info.json",
+            "jmol_script": "Achavalite_structure_01_jmol_script_3.js",
+            "info_json": "structure_info.json"
+          },
+          "cif_content": "data_global\n_chemical_name_mineral 'Achavalite'\nloop_\n_publ_author_name\n'Wyckoff R W G'\n_journal_name_full 'Crystal Structures'\n_journal_volume 1 \n_journal_year 1963\n_journal_page_first 85\n_journal_page_last 237\n_publ_section_title\n;\n Second edition. Interscience Publishers, New York, New York\n Note: ideal nickel arsenide structure\n;\n_database_code_amcsd 0011573\n_chemical_formula_sum 'Fe Se'\n_cell_length_a 3.637\n_cell_length_b 3.637\n_cell_length_c 5.958\n_cell_angle_alpha 90\n_cell_angle_beta 90\n_cell_angle_gamma 120\n_cell_volume 68.252\n_exptl_crystal_density_diffrn      6.560\n_symmetry_space_group_name_H-M 'P 63 m c'\nloop_\n_space_group_symop_operation_xyz\n  'x,y,z'\n  '-x,-x+y,1/2+z'\n  'x-y,x,1/2+z'\n  '-y,-x,z'\n  '-y,x-y,z'\n  'x-y,-y,1/2+z'\n  '-x,-y,1/2+z'\n  'x,x-y,z'\n  '-x+y,-x,z'\n  'y,x,1/2+z'\n  'y,-x+y,1/2+z'\n  '-x+y,y,z'\nloop_\n_atom_site_label\n_atom_site_fract_x\n_atom_site_fract_y\n_atom_site_fract_z\nFe   0.00000   0.00000   0.00000\nSe   0.33333   0.66667   0.25000\n\n"
+        },
+        {
+          "id": "structure_02",
+          "name": "结构 02",
+          "spaceGroup": "P63/mmc",
+          "spaceGroupConfidence": 80,
+          "crystal": "六方晶系",
+          "lattice": {
+            "a": 3.61,
+            "b": 3.61,
+            "c": 5.87,
+            "alpha": 90.0,
+            "beta": 90.0,
+            "gamma": 120.0,
+            "volume": 66.25
+          },
+          "z": 0,
+          "atoms": [
+            {
+              "label": "Fe1",
+              "element": "Fe",
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
             },
             {
-              "label": "S",
-              "element": "S",
+              "label": "Se1",
+              "element": "Se",
               "x": 0.33333,
               "y": 0.66667,
               "z": 0.25
             }
           ],
           "files": {
-            "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Achavalite\\structure_01",
-            "cif": "Achavalite_structure_04_cif.cif",
+            "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Achavalite\\structure_02",
+            "cif": "Achavalite_structure_02_cif.cif",
             "amc": null,
-            "diffraction": "Achavalite_structure_04_diffraction.txt",
+            "diffraction": "Achavalite_structure_02_diffraction.txt",
             "jmol_3d": null,
-            "jmol_3d_png": "Achavalite_structure_04_jmol_3d.png",
-            "jmol_info": "Achavalite_structure_04_jmol_info.json",
-            "jmol_script": "Achavalite_structure_04_jmol_script_3.js",
+            "jmol_3d_png": "Achavalite_structure_02_jmol_3d.png",
+            "jmol_info": "Achavalite_structure_02_jmol_info.json",
+            "jmol_script": "Achavalite_structure_02_jmol_script_3.js",
             "info_json": "structure_info.json"
           },
-          "cif_content": "data_global\n_chemical_name_mineral 'Achavalite'\nloop_\n_publ_author_name\n'Franz E D'\n_journal_name_full 'Neues Jahrbuch fur Mineralogie, Monatshefte'\n_journal_volume 1972 \n_journal_year 1972\n_journal_page_first 276\n_journal_page_last 280\n_publ_section_title\n;\n Rontgenographische Daten der Mischphasen im System Pyrit (FeS2) -\n Ferroselit (FeSe2)/Pyrrhotin (FeS) - Achavalit (FeSe)\n;\n_database_code_amcsd 0019172\n_chemical_compound_source 'Synthetic'\n_chemical_formula_sum 'Fe (Se.5 S.5)'\n_cell_length_a 3.521\n_cell_length_b 3.521\n_cell_length_c 5.901\n_cell_angle_alpha 90\n_cell_angle_beta 90\n_cell_angle_gamma 120\n_cell_volume 63.356\n_exptl_crystal_density_diffrn      5.837\n_symmetry_space_group_name_H-M 'P 63 m c'\nloop_\n_space_group_symop_operation_xyz\n  'x,y,z'\n  '-x,-x+y,1/2+z'\n  'x-y,x,1/2+z'\n  '-y,-x,z'\n  '-y,x-y,z'\n  'x-y,-y,1/2+z'\n  '-x,-y,1/2+z'\n  'x,x-y,z'\n  '-x+y,-x,z'\n  'y,x,1/2+z'\n  'y,-x+y,1/2+z'\n  '-x+y,y,z'\nloop_\n_atom_site_label\n_atom_site_fract_x\n_atom_site_fract_y\n_atom_site_fract_z\n_atom_site_occupancy\nFe   0.00000   0.00000   0.00000   1.00000\nSe   0.33333   0.66667   0.25000   0.50000\nS   0.33333   0.66667   0.25000   0.50000\n\n"
+          "cif_content": "data_global\n_chemical_name_mineral 'Achavalite'\nloop_\n_publ_author_name\n'Alsen N'\n_journal_name_full 'Geologiska Foreningens i Stockholm Forhandlingar'\n_journal_volume 47 \n_journal_year 1925\n_journal_page_first 19\n_journal_page_last 73\n_publ_section_title\n;\n Roentgenographische Untersuchungen der Kristallstrukturen von\n Magnetkies, Breithauptit, Pentlandit, Millerit und verwandten\n Verbindungen\n _cod_database_code 1011366\n;\n_database_code_amcsd 0018200\n_chemical_formula_sum 'Fe Se'\n_cell_length_a 3.61\n_cell_length_b 3.61\n_cell_length_c 5.87\n_cell_angle_alpha 90\n_cell_angle_beta 90\n_cell_angle_gamma 120\n_cell_volume 66.250\n_exptl_crystal_density_diffrn      6.758\n_symmetry_space_group_name_H-M 'P 63/m m c'\nloop_\n_space_group_symop_operation_xyz\n  'x,y,z'\n  '-x,-x+y,1/2+z'\n  'x,x-y,1/2-z'\n  '-x+y,-x,1/2-z'\n  'x-y,x,1/2+z'\n  '-y,-x,z'\n  'y,x,-z'\n  'y,-x+y,-z'\n  '-y,x-y,z'\n  'x-y,-y,1/2+z'\n  '-x+y,y,1/2-z'\n  'x,y,1/2-z'\n  '-x,-y,1/2+z'\n  'x,x-y,z'\n  '-x,-x+y,-z'\n  'x-y,x,-z'\n  '-x+y,-x,z'\n  'y,x,1/2+z'\n  '-y,-x,1/2-z'\n  '-y,x-y,1/2-z'\n  'y,-x+y,1/2+z'\n  '-x+y,y,z'\n  'x-y,-y,-z'\n  '-x,-y,-z'\nloop_\n_atom_site_label\n_atom_site_fract_x\n_atom_site_fract_y\n_atom_site_fract_z\nFe1   0.00000   0.00000   0.00000\nSe1   0.33333   0.66667   0.25000\n\n"
         },
         {
-          "id": "structure_01",
-          "name": "结构 01",
+          "id": "structure_03",
+          "name": "结构 03",
+          "spaceGroup": "P 63 m c",
+          "spaceGroupConfidence": 80,
+          "crystal": "六方晶系",
+          "lattice": {
+            "a": 3.636,
+            "b": 3.636,
+            "c": 5.946,
+            "alpha": 90.0,
+            "beta": 90.0,
+            "gamma": 120.0,
+            "volume": 68.077
+          },
+          "z": 0,
+          "atoms": [
+            {
+              "label": "Fe",
+              "element": "Fe",
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            {
+              "label": "Se",
+              "element": "Se",
+              "x": 0.33333,
+              "y": 0.66667,
+              "z": 0.25
+            }
+          ],
+          "files": {
+            "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Achavalite\\structure_03",
+            "cif": "Achavalite_structure_03_cif.cif",
+            "amc": null,
+            "diffraction": "Achavalite_structure_03_diffraction.txt",
+            "jmol_3d": null,
+            "jmol_3d_png": "Achavalite_structure_03_jmol_3d.png",
+            "jmol_info": "Achavalite_structure_03_jmol_info.json",
+            "jmol_script": "Achavalite_structure_03_jmol_script_3.js",
+            "info_json": "structure_info.json"
+          },
+          "cif_content": "data_global\n_chemical_name_mineral 'Achavalite'\nloop_\n_publ_author_name\n'Franz E D'\n_journal_name_full 'Neues Jahrbuch fur Mineralogie, Monatshefte'\n_journal_volume 1972 \n_journal_year 1972\n_journal_page_first 276\n_journal_page_last 280\n_publ_section_title\n;\n Rontgenographische Daten der Mischphasen im System Pyrit (FeS2) -\n Ferroselit (FeSe2)/Pyrrhotin (FeS) - Achavalit (FeSe)\n;\n_database_code_amcsd 0019171\n_chemical_compound_source 'Synthetic'\n_chemical_formula_sum 'Fe Se'\n_cell_length_a 3.636\n_cell_length_b 3.636\n_cell_length_c 5.946\n_cell_angle_alpha 90\n_cell_angle_beta 90\n_cell_angle_gamma 120\n_cell_volume 68.077\n_exptl_crystal_density_diffrn      6.576\n_symmetry_space_group_name_H-M 'P 63 m c'\nloop_\n_space_group_symop_operation_xyz\n  'x,y,z'\n  '-x,-x+y,1/2+z'\n  'x-y,x,1/2+z'\n  '-y,-x,z'\n  '-y,x-y,z'\n  'x-y,-y,1/2+z'\n  '-x,-y,1/2+z'\n  'x,x-y,z'\n  '-x+y,-x,z'\n  'y,x,1/2+z'\n  'y,-x+y,1/2+z'\n  '-x+y,y,z'\nloop_\n_atom_site_label\n_atom_site_fract_x\n_atom_site_fract_y\n_atom_site_fract_z\nFe   0.00000   0.00000   0.00000\nSe   0.33333   0.66667   0.25000\n\n"
+        },
+        {
+          "id": "structure_04",
+          "name": "结构 04",
           "spaceGroup": "P 63 m c",
           "spaceGroupConfidence": 80,
           "crystal": "六方晶系",
@@ -1441,111 +1522,7 @@
             }
           ],
           "files": {
-            "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Achavalite\\structure_01",
-            "cif": "Achavalite_structure_04_cif.cif",
-            "amc": null,
-            "diffraction": "Achavalite_structure_04_diffraction.txt",
-            "jmol_3d": null,
-            "jmol_3d_png": "Achavalite_structure_04_jmol_3d.png",
-            "jmol_info": "Achavalite_structure_04_jmol_info.json",
-            "jmol_script": "Achavalite_structure_04_jmol_script_3.js",
-            "info_json": "structure_info.json"
-          },
-          "cif_content": "data_global\n_chemical_name_mineral 'Achavalite'\nloop_\n_publ_author_name\n'Franz E D'\n_journal_name_full 'Neues Jahrbuch fur Mineralogie, Monatshefte'\n_journal_volume 1972 \n_journal_year 1972\n_journal_page_first 276\n_journal_page_last 280\n_publ_section_title\n;\n Rontgenographische Daten der Mischphasen im System Pyrit (FeS2) -\n Ferroselit (FeSe2)/Pyrrhotin (FeS) - Achavalit (FeSe)\n;\n_database_code_amcsd 0019172\n_chemical_compound_source 'Synthetic'\n_chemical_formula_sum 'Fe (Se.5 S.5)'\n_cell_length_a 3.521\n_cell_length_b 3.521\n_cell_length_c 5.901\n_cell_angle_alpha 90\n_cell_angle_beta 90\n_cell_angle_gamma 120\n_cell_volume 63.356\n_exptl_crystal_density_diffrn      5.837\n_symmetry_space_group_name_H-M 'P 63 m c'\nloop_\n_space_group_symop_operation_xyz\n  'x,y,z'\n  '-x,-x+y,1/2+z'\n  'x-y,x,1/2+z'\n  '-y,-x,z'\n  '-y,x-y,z'\n  'x-y,-y,1/2+z'\n  '-x,-y,1/2+z'\n  'x,x-y,z'\n  '-x+y,-x,z'\n  'y,x,1/2+z'\n  'y,-x+y,1/2+z'\n  '-x+y,y,z'\nloop_\n_atom_site_label\n_atom_site_fract_x\n_atom_site_fract_y\n_atom_site_fract_z\n_atom_site_occupancy\nFe   0.00000   0.00000   0.00000   1.00000\nSe   0.33333   0.66667   0.25000   0.50000\nS   0.33333   0.66667   0.25000   0.50000\n\n"
-        },
-        {
-          "id": "structure_01",
-          "name": "结构 01",
-          "spaceGroup": "P 63 m c",
-          "spaceGroupConfidence": 80,
-          "crystal": "六方晶系",
-          "lattice": {
-            "a": 3.521,
-            "b": 3.521,
-            "c": 5.901,
-            "alpha": 90.0,
-            "beta": 90.0,
-            "gamma": 120.0,
-            "volume": 63.356
-          },
-          "z": 0,
-          "atoms": [
-            {
-              "label": "Fe",
-              "element": "Fe",
-              "x": 0.0,
-              "y": 0.0,
-              "z": 0.0
-            },
-            {
-              "label": "Se",
-              "element": "Se",
-              "x": 0.33333,
-              "y": 0.66667,
-              "z": 0.25
-            },
-            {
-              "label": "S",
-              "element": "S",
-              "x": 0.33333,
-              "y": 0.66667,
-              "z": 0.25
-            }
-          ],
-          "files": {
-            "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Achavalite\\structure_01",
-            "cif": "Achavalite_structure_04_cif.cif",
-            "amc": null,
-            "diffraction": "Achavalite_structure_04_diffraction.txt",
-            "jmol_3d": null,
-            "jmol_3d_png": "Achavalite_structure_04_jmol_3d.png",
-            "jmol_info": "Achavalite_structure_04_jmol_info.json",
-            "jmol_script": "Achavalite_structure_04_jmol_script_3.js",
-            "info_json": "structure_info.json"
-          },
-          "cif_content": "data_global\n_chemical_name_mineral 'Achavalite'\nloop_\n_publ_author_name\n'Franz E D'\n_journal_name_full 'Neues Jahrbuch fur Mineralogie, Monatshefte'\n_journal_volume 1972 \n_journal_year 1972\n_journal_page_first 276\n_journal_page_last 280\n_publ_section_title\n;\n Rontgenographische Daten der Mischphasen im System Pyrit (FeS2) -\n Ferroselit (FeSe2)/Pyrrhotin (FeS) - Achavalit (FeSe)\n;\n_database_code_amcsd 0019172\n_chemical_compound_source 'Synthetic'\n_chemical_formula_sum 'Fe (Se.5 S.5)'\n_cell_length_a 3.521\n_cell_length_b 3.521\n_cell_length_c 5.901\n_cell_angle_alpha 90\n_cell_angle_beta 90\n_cell_angle_gamma 120\n_cell_volume 63.356\n_exptl_crystal_density_diffrn      5.837\n_symmetry_space_group_name_H-M 'P 63 m c'\nloop_\n_space_group_symop_operation_xyz\n  'x,y,z'\n  '-x,-x+y,1/2+z'\n  'x-y,x,1/2+z'\n  '-y,-x,z'\n  '-y,x-y,z'\n  'x-y,-y,1/2+z'\n  '-x,-y,1/2+z'\n  'x,x-y,z'\n  '-x+y,-x,z'\n  'y,x,1/2+z'\n  'y,-x+y,1/2+z'\n  '-x+y,y,z'\nloop_\n_atom_site_label\n_atom_site_fract_x\n_atom_site_fract_y\n_atom_site_fract_z\n_atom_site_occupancy\nFe   0.00000   0.00000   0.00000   1.00000\nSe   0.33333   0.66667   0.25000   0.50000\nS   0.33333   0.66667   0.25000   0.50000\n\n"
-        },
-        {
-          "id": "structure_01",
-          "name": "结构 01",
-          "spaceGroup": "P 63 m c",
-          "spaceGroupConfidence": 80,
-          "crystal": "六方晶系",
-          "lattice": {
-            "a": 3.521,
-            "b": 3.521,
-            "c": 5.901,
-            "alpha": 90.0,
-            "beta": 90.0,
-            "gamma": 120.0,
-            "volume": 63.356
-          },
-          "z": 0,
-          "atoms": [
-            {
-              "label": "Fe",
-              "element": "Fe",
-              "x": 0.0,
-              "y": 0.0,
-              "z": 0.0
-            },
-            {
-              "label": "Se",
-              "element": "Se",
-              "x": 0.33333,
-              "y": 0.66667,
-              "z": 0.25
-            },
-            {
-              "label": "S",
-              "element": "S",
-              "x": 0.33333,
-              "y": 0.66667,
-              "z": 0.25
-            }
-          ],
-          "files": {
-            "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Achavalite\\structure_01",
+            "base_path": "D:\\OneDrive\\digitalmineral\\pythonProject5\\test\\Achavalite\\structure_04",
             "cif": "Achavalite_structure_04_cif.cif",
             "amc": null,
             "diffraction": "Achavalite_structure_04_diffraction.txt",
@@ -1557,17 +1534,15 @@
           },
           "cif_content": "data_global\n_chemical_name_mineral 'Achavalite'\nloop_\n_publ_author_name\n'Franz E D'\n_journal_name_full 'Neues Jahrbuch fur Mineralogie, Monatshefte'\n_journal_volume 1972 \n_journal_year 1972\n_journal_page_first 276\n_journal_page_last 280\n_publ_section_title\n;\n Rontgenographische Daten der Mischphasen im System Pyrit (FeS2) -\n Ferroselit (FeSe2)/Pyrrhotin (FeS) - Achavalit (FeSe)\n;\n_database_code_amcsd 0019172\n_chemical_compound_source 'Synthetic'\n_chemical_formula_sum 'Fe (Se.5 S.5)'\n_cell_length_a 3.521\n_cell_length_b 3.521\n_cell_length_c 5.901\n_cell_angle_alpha 90\n_cell_angle_beta 90\n_cell_angle_gamma 120\n_cell_volume 63.356\n_exptl_crystal_density_diffrn      5.837\n_symmetry_space_group_name_H-M 'P 63 m c'\nloop_\n_space_group_symop_operation_xyz\n  'x,y,z'\n  '-x,-x+y,1/2+z'\n  'x-y,x,1/2+z'\n  '-y,-x,z'\n  '-y,x-y,z'\n  'x-y,-y,1/2+z'\n  '-x,-y,1/2+z'\n  'x,x-y,z'\n  '-x+y,-x,z'\n  'y,x,1/2+z'\n  'y,-x+y,1/2+z'\n  '-x+y,y,z'\nloop_\n_atom_site_label\n_atom_site_fract_x\n_atom_site_fract_y\n_atom_site_fract_z\n_atom_site_occupancy\nFe   0.00000   0.00000   0.00000   1.00000\nSe   0.33333   0.66667   0.25000   0.50000\nS   0.33333   0.66667   0.25000   0.50000\n\n"
         }
-      ],
-      "files": {},
-      "spaceGroupConfidence": 80
+      ]
     }
   ],
   "metadata": {
     "total_minerals": 4,
     "total_structures": 7,
     "total_cif_embedded": 7,
-    "generated_date": "2025-06-09 11:32:48",
-    "version": "1.3",
+    "generated_date": "2025-06-09 12:04:39",
+    "version": "1.4",
     "categories": {
       "oxides": 1,
       "halides": 1,
